@@ -225,39 +225,6 @@ The OCR models were evaluated using multiple performance metrics.
 
 ---
 
-# 📂 Project Structure
-
-```
-OCR-Project/
-│
-├── Machine_Learning/
-│   ├── Dataset/
-│   ├── Preprocessing/
-│   ├── SVM_Model.py
-│   └── Evaluation.py
-│
-├── Deep_Learning/
-│   ├── TrOCR_Model.py
-│   ├── Evaluation.py
-│   ├── Results/
-│   └── Images/
-│
-├── LLM_Approach/
-│   ├── Moondream.py
-│   ├── Qwen2.5VL.py
-│   ├── Prompt.py
-│   └── Images/
-│
-├── Results/
-│
-├── Report/
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
 
 # 🎯 Features
 
