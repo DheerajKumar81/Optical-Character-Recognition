@@ -292,5 +292,4 @@ The OCR models were evaluated using multiple performance metrics.
 # 👨‍💻 Authors
 
 **Optical Character Recognition (OCR) Comparative Study**
-
 Developed as part of a **Bachelor of Technology (B.Tech)** project to explore and compare Machine Learning, Deep Learning, and Large Language Model-based OCR systems for handwritten and printed text recognition.
